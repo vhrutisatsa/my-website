@@ -6,6 +6,6 @@ layout: home
 title: "Welcome to My Website"
 ---
 
-# Hello, World!
-This is the homepage of my website.
+# Shruti Vatsa
+Research Engineer, budding Neuroscientist, Artist, and an Entreprenur. I was a Civil Engineer in my past life, now a researcher in the field of Decision Neuroscience. I run a design and apparel company. 
 ---
