@@ -34,9 +34,9 @@ plugins:
 
 # Navigation Links
 header_pages:
-  - index.md
-  - about.md
-  - contact.md
+  - index.markdown
+  - about.markdown
+  - contact.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
