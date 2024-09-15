@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a Research Engineer in the Decision Lab, Indian Institute of Technology (IIT) Kanpur, India. I hold a Bachelor's degree in Civil Engineering and a Master's degree in Biological Sciences and Bioengineering from IIT Kanpur. I am interested in learning about decision-making and how it gets affected by the anxiety and depression levels of individuals. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+You can read more about me and my lab at:
+[Decision Lab, IIT Kanpur][jekyll-organization] /
+[Shruti Vatsa]([https://github.com/jekyll/minima](https://sites.google.com/view/decisionlabiitk/people/shruti-vatsa))
 
 
 [jekyll-organization]: https://github.com/jekyll
